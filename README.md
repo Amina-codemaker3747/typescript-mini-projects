@@ -1,1 +1,1 @@
-<b><i>TypeScript Mini Projects</ i></ b>
+<b><i>TypeScript Mini Projects
